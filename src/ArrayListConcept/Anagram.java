@@ -13,6 +13,7 @@ public class Anagram {
 		
 		System.out.println("Diwakar Patil");
 		System.out.println("I am from local");
+		System.out.println("I am from Remote");
 
 	}
 	
