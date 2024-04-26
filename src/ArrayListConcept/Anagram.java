@@ -17,7 +17,8 @@ public class Anagram {
 	}
 	
 	public void getAnagram(String a, String b) {
-		
+
+		System.out.println("I am from Remote");
 		if(a.length()!=b.length()) {
 			System.out.println("Two strings are not palindrome");
 		}
