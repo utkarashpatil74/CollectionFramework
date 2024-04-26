@@ -29,6 +29,7 @@ public class Anagram {
 		else {
 			char c[]=a.toCharArray();
 			char d[]=b.toCharArray();
+			System.out.println("hey me remote madhun aho");
 			
 			Arrays.sort(c);
 			Arrays.sort(d);
