@@ -9,6 +9,8 @@ public class Anagram {
 		
 		Anagram m=new Anagram();
 		m.getAnagram("listen","sint");
+
+		syso("Utkarsh Patil");
 	}
 	
 	public void getAnagram(String a, String b) {
